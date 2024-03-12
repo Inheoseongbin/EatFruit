@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "671297674488",
+    "firebase_url": "https://network-c2117-default-rtdb.firebaseio.com",
+    "project_id": "network-c2117",
+    "storage_bucket": "network-c2117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671297674488:android:f8b25539d680a21690af0d",
+        "android_client_info": {
+          "package_name": "DefaultCompany.EngineProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKuOvFCc8pNZKusqSA912zdNwIykLVaiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
